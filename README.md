@@ -12,3 +12,5 @@ https://ricardokcontreras.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Ricardo Contreras]
+
+### ©️2019 Run Buddy, Inc
